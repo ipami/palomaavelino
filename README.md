@@ -24,5 +24,4 @@ Estudando: HTML, CSS, Js.</br>
   
   ##
 
- 
-  ![Snake animation](https://github.com/palomaavelino/palomaavelino/blob/output/github-contribution-grid-snake.svg)
+
