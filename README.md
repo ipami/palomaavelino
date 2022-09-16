@@ -28,9 +28,9 @@ Estudando: HTML, CSS, Js.</br>
      <img align="right" alt="Pami-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/283392827721908225/975554249167634512/51c574f0f7a50197e5ef4424aacb0cfe.gif">
   
  
-![snake gif](https://github.com/palomaavelino/palomaavelino/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
+![snake gif](https://github.com/palomaavelino/palomaavelino/blob/output/github-contribution-grid-snake.svg)
+ 
 
   
