@@ -20,8 +20,7 @@ Estudando: HTML, CSS, Js.</br>
   <img align="center" alt="Pami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pami-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="right" alt="Pami-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/283392827721908225/975554249167634512/51c574f0f7a50197e5ef4424aacb0cfe.gif">
-  
+
   </div>
 
   
