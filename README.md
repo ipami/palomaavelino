@@ -1,7 +1,7 @@
 <div align="right">
        <img align="right" alt="Pami-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/283392827721908225/975554249167634512/51c574f0f7a50197e5ef4424aacb0cfe.gif">
   </div>
-Aspirante a dev front-ent. </br>
+Aspirante a dev front-end. </br>
 Amante de café e chocolate.</br>
 Sonolenta a maior parte do tempo. :coffee:</br>
 Estudando: Js, Python.</br>
