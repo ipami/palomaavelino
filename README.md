@@ -4,7 +4,7 @@
 Aspirante a dev front-ent. </br>
 Amante de café e chocolate.</br>
 Sonolenta a maior parte do tempo. :coffee:</br>
-Estudando: HTML, CSS, Js.</br>
+Estudando: Js, Python.</br>
 <br><br><br><br>
 
 
